@@ -89,8 +89,8 @@
         <entry endPc="268435741" name="dc" stackId="1" startPc="268435699"/>
         <entry endPc="268435771" name="dc" stackId="1" startPc="268435746"/>
         <entry endPc="268435874" name="item" stackId="1" startPc="268435799"/>
-        <entry endPc="268436217" name="rez_cmp_local_text_1760894204" stackId="2" startPc="268435886"/>
         <entry endPc="268436217" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268435886"/>
+        <entry endPc="268436217" name="rez_cmp_local_text_1640686731" stackId="2" startPc="268435886"/>
         <entry endPc="268436218" name="dc" stackId="1" startPc="268435874"/>
     </localVars>
     <annotations/>
